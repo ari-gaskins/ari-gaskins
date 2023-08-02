@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @arianna-gaskins
+- 👋 Hi, I’m @ari-gaskins
 - 👀 I’m interested in full stack development
 - 🌱 I’m currently learning frontend development fundamentals: HTML, CSS, JavaScript
 - 💞️ I’m looking to collaborate on frontend projects 
